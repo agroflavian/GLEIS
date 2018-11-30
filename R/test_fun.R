@@ -9,7 +9,7 @@
 #' test_fun()
 test_fun <- function(try=TRUE){
   if(try==TRUE){
-    print("Ciao Zoe, sta bene?")
+    print("Ciao alles klar? tipp eifach ned FALSE")
   }
   else {
     print("WHY THE HELL YOU TYPE FALSE?!?")
